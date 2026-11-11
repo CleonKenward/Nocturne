@@ -2,6 +2,8 @@
 
 Katalog dan pemesanan parfum sederhana bertema Halloween. Dibangun sepenuhnya dengan **HTML, CSS, dan JavaScript** tanpa database, backend, framework, maupun layanan cloud.
 
+**Demo:** https://cleonkenward.github.io/Nocturne/
+
 ## Fitur
 
 - Katalog parfum dengan tampilan bertema Halloween.
